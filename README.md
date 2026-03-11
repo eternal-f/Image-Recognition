@@ -15,13 +15,13 @@ This project is built on the Huawei Cloud ModelArts platform, utilizing its pre-
 **Prediction Analysis**: Uploaded test images for prediction, output detection results, and performed analysis
 
 ## Project Structure
-Main
-├── Report
-│ └── ModelArts.pdf ------ Project report (including experimental process and conclusions)
-├── Picture
-│ ├── Detection_1.PNG ---- Example of detection result 1
-│ └── Detection_2.PNG ---- Example of detection result 2
-└── README.md ------------ Describe of this project
+Main  
+├── Report  
+│ └── ModelArts.pdf ------ Project report (including experimental process and conclusions)  
+├── Picture  
+│ ├── Detection_1.PNG ---- Example of detection result 1  
+│ └── Detection_2.PNG ---- Example of detection result 2  
+└── README.md ------------ Describe of this project  
 
 # 基于FasterRCNN预置算法的人车检测
 本项目基于华为云ModelArts平台，利用其预置的FasterRCNN算法实现图像中的人车检测。通过完整的模型训练与部署流程，实现对车辆及行人的自动识别与定位，为交通安全、自动驾驶等场景提供基础检测能力。
@@ -39,11 +39,11 @@ Main
 **模型部署**：将训练好的模型部署为在线服务
 **预测分析**：上传测试图像进行预测，输出检测结果并分析
 
-##项目结构
-Main
-├── Report
-│   └── ModelArts.pdf -------- 项目报告（含实验过程与结论）
-├── Picture
-│   ├── Detection_1.PNG ------ 检测结果示例1
-│   └── Detection_2.PNG ------ 检测结果示例2
-└── README.md ---------------- 项目说明文档
+## 项目结构
+Main  
+├── Report  
+│   └── ModelArts.pdf -------- 项目报告（含实验过程与结论）  
+├── Picture  
+│   ├── Detection_1.PNG ------ 检测结果示例1  
+│   └── Detection_2.PNG ------ 检测结果示例2  
+└── README.md ---------------- 项目说明文档  
