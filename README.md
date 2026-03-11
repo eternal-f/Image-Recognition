@@ -13,6 +13,8 @@ This project is built on the Huawei Cloud ModelArts platform, utilizing its pre-
 **Model Training**: Trained the annotated dataset using the Faster R-CNN pre-built algorithm  
 **Model Deployment**: Deployed the trained model as an online service  
 **Prediction Analysis**: Uploaded test images for prediction, output detection results, and performed analysis  
+<img width="1574" height="635" alt="Detection_1" src="https://github.com/user-attachments/assets/bec74951-36c6-46c1-88ad-5a725a7ee8ac" />
+
 
 ## Project Structure
 Main  
@@ -38,6 +40,8 @@ Main
 **模型训练**：基于FasterRCNN预置算法训练标注好的数据集  
 **模型部署**：将训练好的模型部署为在线服务  
 **预测分析**：上传测试图像进行预测，输出检测结果并分析  
+<img width="1574" height="635" alt="Detection_1" src="https://github.com/user-attachments/assets/198f2169-c682-4793-b250-e12cd83070ba" />
+
 
 ## 项目结构
 Main  
